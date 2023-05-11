@@ -1,0 +1,163 @@
+/*  Color de fondo de pantalla  */
+
+body {
+    background: #ffffff;
+}
+
+/*  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   */
+
+/*  Etiquetas de párrafos   */
+
+.parrafos {
+    text-align: justify;
+    font-size: 16px;
+    font-family: "Helvetica Light";
+    color: #808080;
+    margin-left: 24%;
+    margin-right: 24%;
+}
+
+#parrafoDos a1 {
+    color: #CC0000;
+}
+
+#b2 {
+    color: #000000;
+}
+
+/*  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   */
+
+/*  Imagenes  */
+
+.logotipo {
+    width: 18%;
+    padding: 26px;
+}
+
+.po {
+    display: inline-block;
+    vertical-align: top;
+    padding: 130px;
+}
+
+#banner1 {
+    width: 56%;
+    margin-left: 22%;
+    margin-bottom: 2%;
+    border-radius: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+#banner2 {
+    width: 56%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 22%;
+    border-radius: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+/*  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   */
+
+/*  Video   */
+
+iframe {
+    width: 46%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 28%;
+    border-radius: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+/*  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   */
+
+/*  Títulos   */
+
+.encabezado {
+    border-left: #CC0000
+}
+
+.titulo {
+    text-align: center;
+    font-family: "Helvetica Bold";
+    font-size: 36px;
+    color: #2A2A2A;
+}
+
+.titulo2 {
+    color: #CC0000;
+    text-align: center;
+    font-family: "Helvetica Light";
+    font-size: 28px;
+}
+
+.titulo3 {
+    color: #808080;
+    text-align: left;
+    padding-left: 2%;
+    font-family: "Helvetica Bold";
+    font-size: 20px;
+}
+
+.titulo4 {
+    color: #808080;
+    text-align: left;
+    padding-left: 2%;
+    font-family: "Helvetica Bold";
+    font-size: 20px;
+}
+
+.titulo5 {
+    color: #808080;
+    text-align: left;
+    padding-left: 2%;
+    font-family: "Helvetica Bold";
+    font-size: 20px;
+}
+
+.titulo6 {
+    color: #808080;
+    text-align: left;
+    padding-left: 2%;
+    font-family: "Helvetica Bold";
+    font-size: 20px;
+}
+
+/*  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   */
+
+/*  Listas  */
+
+.itemsTotales {
+    color: #808080;
+    font-size: 16px;
+    font-family: "Helvetica Light";
+    text-align: justify;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.items1 #aa1 {
+    color: #000000;
+}
+
+.items2 #aa2 {
+    color: #000000;
+}
+
+.items3 aa3 {
+    color: #CC0000;
+}
+
+.items4 aa4 {
+    color: #CC0000;
+}
